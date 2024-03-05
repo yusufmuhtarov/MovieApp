@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="splash_screen">Splash_Screen</string>
+    <string name="home_screen"> Home_Screen</string>
+    <string name="detail_screen"> Home_Screen</string>
+    <string name="what_do_you_want_to_watch">What do you want to watch?</string>
+    <string name="detail">Detail</string>
+    <string name="search_screen">Search</string>
+    <string name="action">Action</string>
+    <string name="about_movie">About Movie</string>
+    <string name="search">Search</string>
+
+
+</resources>
